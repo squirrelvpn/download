@@ -47,6 +47,6 @@ https://www.getsquirrel.net/ios.html (备用官网，无需翻墙）
 
 
 ### 中文使用说明 & 常见问题 ###
-https://www.squirrelgroup.net/instructions.html
+https://www.getsquirrel.net/instructions.html
 
 
