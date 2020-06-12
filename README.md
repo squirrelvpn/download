@@ -39,17 +39,17 @@ Please download the latest versions for Android and iOS (iPhone/iPad)
 
 
 ### iOS ###
-https://www.getsquirrel.net/ios.html (备用官网，无需翻墙）
+https://www.gosquirrel.net/ios.html (备用官网，无需翻墙）
 
 
 # SquirrelVPN Links
 
 ### Official Website ###
 - Official website： https://www.squirrelvpn.com/
-- Backup website： https://www.getsquirrel.net/ (备用官网，无需翻墙）
+- Backup website： https://www.gosquirrel.net/(备用官网，无需翻墙）
 
 
 ### 中文使用说明 & 常见问题 ###
-https://www.getsquirrel.net/instructions.html
+https://www.gosquirrel.net/instructions.html
 
 
