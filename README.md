@@ -41,8 +41,8 @@ https://www.gosquirrel.net/ios.html (备用官网，无需翻墙）
 # SquirrelVPN Links
 
 ### Official Website ###
-- Official website： https://www.squirrelvpn.com/
-- Backup website： https://www.gosquirrel.net/(备用官网，无需翻墙）
+- Official website： https://www.squirrelvpn.com
+- Backup website： https://www.gosquirrel.net (备用官网，无需翻墙）
 
 
 ### 中文使用说明 & 常见问题 ###
