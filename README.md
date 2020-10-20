@@ -29,6 +29,7 @@ Please download the latest versions for Android and iOS (iPhone/iPad)
 
 
 ### Android ###
+- [1.0.0-112](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-Android-1.0.0-112-release.apk?raw=true) 
 - [1.0.0-108](https://github.com/squirrelvpn/download/blob/master/clients/squirrel-release-1.0.0-108.apk?raw=true)
 - [1.0.0-102](https://github.com/squirrelvpn/download/blob/master/clients/squirrel-release-1.0.0-102.apk?raw=true)
 - [1.0.0-101](https://github.com/squirrelvpn/download/blob/master/clients/squirrel-release-1.0.0-101.apk?raw=true)
