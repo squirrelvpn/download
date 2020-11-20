@@ -6,7 +6,7 @@ Please download the latest versions for MacOS and Windows
 - [SquirrelVPN-1.0.0-118](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-Mac-1.0.0-118-x64-release.dmg?raw=true)
 
 ###### Old versions:
-- [SquirrelVPN-1.0.0-109](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-1.0.0-109-x64-release.dmg?raw=true)
+- [SquirrelVPN-1.0.0-108](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-1.0.0-108-x64-release.dmg?raw=true)
 
 
 
