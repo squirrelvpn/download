@@ -12,7 +12,7 @@ Please download the latest versions for MacOS and Windows
 
 ### Windows 7/10 (Only 64 bit) ###
 ###### Latest version:
-- [SquirrelVPN-1.0.0-121](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-Win-1.0.0-121-x64-release.exe?raw=true)
+- [SquirrelVPN-1.0.0-123](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-Win-1.0.0-123-x64-release.exe?raw=true)
 
 
 ###### Old versions:
