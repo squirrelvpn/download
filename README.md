@@ -1,5 +1,5 @@
 # SquirrelVPN-Download (Desktop)
-Please download the latest versions for MacOS and Windows
+Please download the latest versions for MacOS, Windows and Linux.
 
 ### MacOS 10.14+ ###
 ###### Latest version:
