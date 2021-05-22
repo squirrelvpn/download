@@ -33,21 +33,23 @@ Please download the latest SquirrelVPN for Android and iOS (iPhone/iPad)
 
 ### Android ###
 ###### Latest version:
-- [1.0.0-112](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-Android-1.0.0-112-release.apk?raw=true) 
+- [APK-file-1.0.0-112](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-Android-1.0.0-112-release.apk?raw=true) 
 - [Google Play](https://play.google.com/store/apps/details?id=com.squirrelvpn)
 ###### Old versions:
-- [1.0.0-108](https://github.com/squirrelvpn/download/blob/master/clients/squirrel-release-1.0.0-108.apk?raw=true)
+- [APK-file-1.0.0-108](https://github.com/squirrelvpn/download/blob/master/clients/squirrel-release-1.0.0-108.apk?raw=true)
 
 
 ### iOS ###
-https://www.gosquirrel.net/ios.html (备用官网，无需翻墙）
+- App Store: https://apps.apple.com/us/app/squirrelvpn/id1480069733
+- SquirrelVPN pro (TestFlight): https://www.gosquirrel.net/ios.html (备用官网，无需翻墙）
 
 
 # Smart TV Apps
 
 ### Android Smart TV ###
 ###### Latest version:
-- Google Play: https://play.google.com/store/apps/details?id=com.squirrelvpntv
+- [APK-file-1.0.0-123](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-TV-release-1.0.0-123.apk?raw=true)
+- [Google Play](https://play.google.com/store/apps/details?id=com.squirrelvpntv)
 
 # SquirrelVPN Links
 
