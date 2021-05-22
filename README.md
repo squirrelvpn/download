@@ -1,5 +1,5 @@
-# SquirrelVPN-Download (Desktop)
-Please download the latest versions for MacOS, Windows and Linux.
+# Desktop Apps
+Please download the latest SquirrelVPN for MacOS, Windows and Linux.
 
 ### MacOS 10.14+ ###
 ###### Latest version:
@@ -27,8 +27,8 @@ Please download the latest versions for MacOS, Windows and Linux.
 ###### Old versions:
 - [SquirrelVPN-1.0.0-109](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-1.0.0-109-x64-release.AppImage?raw=true)
 
-# SquirrelVPN-Download (Mobile)
-Please download the latest versions for Android and iOS (iPhone/iPad)
+# Mobile Apps
+Please download the latest SquirrelVPN for Android and iOS (iPhone/iPad)
 
 
 ### Android ###
@@ -42,6 +42,12 @@ Please download the latest versions for Android and iOS (iPhone/iPad)
 ### iOS ###
 https://www.gosquirrel.net/ios.html (备用官网，无需翻墙）
 
+
+# Smart TV Apps
+
+### Android Smart TV ###
+###### Latest version:
+- Google Play: https://play.google.com/store/apps/details?id=com.squirrelvpntv
 
 # SquirrelVPN Links
 
