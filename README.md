@@ -26,7 +26,7 @@ Please download the latest SquirrelVPN for MacOS, Windows and Linux.
 
 ### Windows 7 or above (Only 64 bit) ###
 ###### Latest version:
-- [SquirrelVPN-1.0.0-125](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-Win-1.0.0-135-x64-release.exe?raw=true)
+- [SquirrelVPN-1.0.0-135](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-Win-1.0.0-135-x64-release.exe?raw=true)
 - [Microsoft Store 微软商店](https://www.microsoft.com/en-us/p/squirrelvpn/9nsmq6f5g1z5?t=1611889330284&rtc=1)
 
 
