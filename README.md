@@ -50,7 +50,7 @@ Please download the latest SquirrelVPN for Android and iOS (iPhone/iPad)
 
 ### Android Smart TV ###
 ###### Latest version:
-- [APK-file-1.0.0-145](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-TV-1.0.0-145-release.apk?raw=true)
+- [APK-file-1.0.0-145](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-Android-TV-1.0.0-145-release.apk?raw=true)
 - [Google Play](https://play.google.com/store/apps/details?id=com.squirrelvpntv)
 
 
