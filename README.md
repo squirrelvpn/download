@@ -16,6 +16,8 @@ Please download the latest SquirrelVPN for MacOS, Windows and Linux.
 
 ### MacOS 10.14+ ###
 ###### Latest version:
+- [SquirrelVPN-1.0.0-147](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-Mac-1.0.0-147-x64-release.dmg?raw=true)
+###### Old versions:
 - [SquirrelVPN-1.0.0-145](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-Mac-1.0.0-145-x64-release.dmg?raw=true)
 
 
