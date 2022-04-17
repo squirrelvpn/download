@@ -3,25 +3,25 @@
 
 ### Official Website ###
 - Official website： https://www.squirrelvpn.com
-- Backup website： https://www.gosquirrel.net (备用官网，无需翻墙）
+- Alternative website： https://www.gosquirrel.link
 
 
-### 中文使用说明 & 常见问题 ###
-https://www.gosquirrel.net/instructions.html
+### FAQ & Manual in Chinese ###
+https://www.gosquirrel.link/instructions.html
 
 
 #
 # Desktop Apps
 Please download the latest SquirrelVPN for MacOS, Windows and Linux.
 
-### MacOS 10.14+ ###
+### MacOS 10.14+ (64-bit only) ###
 ###### Latest version:
 - [SquirrelVPN-1.0.0-161](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-Mac-1.0.0-161-x64-release.dmg?raw=true)
 ###### Old version(s):
 - [SquirrelVPN-1.0.0-147](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-Mac-1.0.0-147-x64-release.dmg?raw=true)
 
 
-### Windows 7 or above (Only 64 bit) ###
+### Windows 7 or above (64-bit only) ###
 ###### Latest version:
 - [SquirrelVPN-1.0.0-161](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-Win-1.0.0-161-x64-release.exe?raw=true)
 - [Microsoft Store 微软商店](https://www.microsoft.com/en-us/p/squirrelvpn/9nsmq6f5g1z5?t=1611889330284&rtc=1)
@@ -29,7 +29,7 @@ Please download the latest SquirrelVPN for MacOS, Windows and Linux.
 - [SquirrelVPN-1.0.0-145](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-Win-1.0.0-145-x64-release.exe?raw=true)
 
 
-### Linux (Ubuntu 16+ 已测试，其他Linux也许能使用但未测试。) ###
+### Linux (64-bit only, tested on Ubuntu 16+, may also work on other distributions) ###
 ###### Latest version:
 - [SquirrelVPN-1.0.0-161](https://github.com/squirrelvpn/download/blob/master/clients/SquirrelVPN-Linux-1.0.0-161-x64-release.AppImage?raw=true)
 ###### Old version(s):
@@ -51,7 +51,7 @@ Please download the latest SquirrelVPN for Android and iOS (iPhone/iPad)
 
 ### iOS ###
 - App Store: https://apps.apple.com/us/app/squirrelvpn/id1480069733
-- SquirrelVPN pro (TestFlight): https://www.gosquirrel.net/ios.html (备用官网，无需翻墙）
+- SquirrelVPN pro (TestFlight): https://www.gosquirrel.link/ios.html
 
 #
 # Smart TV 
